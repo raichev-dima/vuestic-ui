@@ -26,7 +26,7 @@
 import { getGradientBackground } from '../../../services/color-functions'
 import { getColor } from '../../../services/ColorThemePlugin'
 import { makeContextablePropsMixin } from '../../context-test/context-provide/ContextPlugin'
-import { RouterLinkMixin } from '../../vuestic-mixins/RouterLinkMixin.ts'
+import { RouterLinkMixin } from '../../vuestic-mixins/RouterLinkMixin'
 import { ColorThemeMixin } from '../../vuestic-mixins/ColorMixin'
 import Component, { mixins } from 'vue-class-component'
 
