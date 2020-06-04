@@ -31,12 +31,19 @@
       "events": {},
       "methods": {},
       "slots": {}
+    },
+    "VaContext": {
+      "props": {},
+      "events": {},
+      "methods": {},
+      "slots": {}
     }
   },
   "menu": {
     "modals": "Modals",
     "uiElements": "Elementos UI",
-    "checkbox": "Checkbox"
+    "checkbox": "Checkbox",
+    "context": "Context"
   },
   "language": {
     "brazilian_portuguese": "Português",
@@ -47,5 +54,8 @@
   "checkbox": {
     "title": "-- Here is the title --"
   },
-  "divider": {}
+  "divider": {},
+  "context": {
+    "title": "-- Here is the title --"
+  }
 }
