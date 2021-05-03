@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
+import { createMetaManager } from 'vue-meta'
 import App from './App.vue'
 import router from './router'
 import { i18n } from 'vue-lang-router'
@@ -13,4 +14,5 @@ createApp(App)
   .use(i18n)
   .use(AlgoliaColorPlugin)
   .use(VuesticPlugin, VuesticConfig)
+  .use(createMetaManager({}))
   .mount('#app')

@@ -17838,6 +17838,11 @@ vue-lang-router@^2.1.1:
     hash-sum "^2.0.0"
     loader-utils "^2.0.0"
 
+vue-meta@^3.0.0-alpha.5:
+  version "3.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/vue-meta/-/vue-meta-3.0.0-alpha.5.tgz#7e06155cfc8c1cc749a9faf22112a62921c9347c"
+  integrity sha512-ZAd6WnVDEwjA/onOCqpfYYSZeTrreON5Q6qoIRYaZGwhQ9S8fneedo4NT0ga/P7481omAuLvdp6LfUfHh4Bz2g==
+
 vue-prism-component@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/vue-prism-component/-/vue-prism-component-2.0.0.tgz#eec89c5fe1ea3d8b55b8721d823b29d8b73b2b6d"
